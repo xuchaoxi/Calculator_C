@@ -1,0 +1,468 @@
+# depslib dependency file v1.0
+1365792527 source:d:\2015\test\lua\lapi.c
+	<stdarg.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lundump.h"
+	"lvm.h"
+
+1384171756 d:\2015\test\lua\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1365792527 d:\2015\test\lua\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+
+1365792527 d:\2015\test\lua\lapi.h
+	"llimits.h"
+	"lstate.h"
+
+1365792527 d:\2015\test\lua\llimits.h
+	<limits.h>
+	<stddef.h>
+	"lua.h"
+	<assert.h>
+	<math.h>
+	<float.h>
+	<math.h>
+
+1365792527 d:\2015\test\lua\lstate.h
+	"lua.h"
+	"lobject.h"
+	"ltm.h"
+	"lzio.h"
+
+1365792527 d:\2015\test\lua\lobject.h
+	<stdarg.h>
+	"llimits.h"
+	"lua.h"
+
+1365792527 d:\2015\test\lua\ltm.h
+	"lobject.h"
+
+1365792527 d:\2015\test\lua\lzio.h
+	"lua.h"
+	"lmem.h"
+
+1365792527 d:\2015\test\lua\lmem.h
+	<stddef.h>
+	"llimits.h"
+	"lua.h"
+
+1365792527 d:\2015\test\lua\ldebug.h
+	"lstate.h"
+
+1365792527 d:\2015\test\lua\ldo.h
+	"lobject.h"
+	"lstate.h"
+	"lzio.h"
+
+1365792527 d:\2015\test\lua\lfunc.h
+	"lobject.h"
+
+1365792527 d:\2015\test\lua\lgc.h
+	"lobject.h"
+	"lstate.h"
+
+1365792527 d:\2015\test\lua\lstring.h
+	"lgc.h"
+	"lobject.h"
+	"lstate.h"
+
+1377877781 d:\2015\test\lua\ltable.h
+	"lobject.h"
+
+1365792527 d:\2015\test\lua\lundump.h
+	"lobject.h"
+	"lzio.h"
+
+1365792527 d:\2015\test\lua\lvm.h
+	"ldo.h"
+	"lobject.h"
+	"ltm.h"
+
+1365792527 source:d:\2015\test\lua\lauxlib.c
+	<errno.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	<sys/wait.h>
+
+1365792527 d:\2015\test\lua\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1365792527 source:d:\2015\test\lua\lbaselib.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1365792527 d:\2015\test\lua\lualib.h
+	"lua.h"
+
+1373392901 source:d:\2015\test\lua\lbitlib.c
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1365792527 source:d:\2015\test\lua\lcode.c
+	<stdlib.h>
+	"lua.h"
+	"lcode.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"llex.h"
+	"lmem.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+	"lstring.h"
+	"ltable.h"
+	"lvm.h"
+
+1365792527 d:\2015\test\lua\lcode.h
+	"llex.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+
+1365792527 d:\2015\test\lua\llex.h
+	"lobject.h"
+	"lzio.h"
+
+1365792527 d:\2015\test\lua\lopcodes.h
+	"llimits.h"
+
+1365792527 d:\2015\test\lua\lparser.h
+	"llimits.h"
+	"lobject.h"
+	"lzio.h"
+
+1365792527 source:d:\2015\test\lua\lcorolib.c
+	<stdlib.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1365792527 source:d:\2015\test\lua\lctype.c
+	"lctype.h"
+	<limits.h>
+
+1365792527 d:\2015\test\lua\lctype.h
+	"lua.h"
+	<limits.h>
+	"llimits.h"
+	<ctype.h>
+
+1365792527 source:d:\2015\test\lua\ldblib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1368720255 source:d:\2015\test\lua\ldebug.c
+	<stdarg.h>
+	<stddef.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"lcode.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lvm.h"
+
+1383934970 source:d:\2015\test\lua\ldo.c
+	<setjmp.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lundump.h"
+	"lvm.h"
+	"lzio.h"
+
+1365792527 source:d:\2015\test\lua\ldump.c
+	<stddef.h>
+	"lua.h"
+	"lobject.h"
+	"lstate.h"
+	"lundump.h"
+
+1365792527 source:d:\2015\test\lua\lfunc.c
+	<stddef.h>
+	"lua.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+
+1367000525 source:d:\2015\test\lua\lgc.c
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+
+1365792527 source:d:\2015\test\lua\linit.c
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1365792527 source:d:\2015\test\lua\liolib.c
+	<errno.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1377877781 source:d:\2015\test\lua\llex.c
+	<locale.h>
+	<string.h>
+	"lua.h"
+	"lctype.h"
+	"ldo.h"
+	"llex.h"
+	"lobject.h"
+	"lparser.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"lzio.h"
+
+1365792527 source:d:\2015\test\lua\lmathlib.c
+	<stdlib.h>
+	<math.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1365792527 source:d:\2015\test\lua\lmem.c
+	<stddef.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+
+1365792527 source:d:\2015\test\lua\loadlib.c
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<dlfcn.h>
+
+1365792527 source:d:\2015\test\lua\lobject.c
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lctype.h"
+	"ldebug.h"
+	"ldo.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"lvm.h"
+	<math.h>
+
+1365792527 source:d:\2015\test\lua\lopcodes.c
+	"lopcodes.h"
+
+1365792527 source:d:\2015\test\lua\loslib.c
+	<errno.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+	<unistd.h>
+
+1365792527 source:d:\2015\test\lua\lparser.c
+	<string.h>
+	"lua.h"
+	"lcode.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"llex.h"
+	"lmem.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lparser.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+
+1383932731 source:d:\2015\test\lua\lstate.c
+	<stddef.h>
+	<string.h>
+	"lua.h"
+	"lapi.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"llex.h"
+	"lmem.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	<time.h>
+
+1365792527 source:d:\2015\test\lua\lstring.c
+	<string.h>
+	"lua.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+
+1365792527 source:d:\2015\test\lua\lstrlib.c
+	<ctype.h>
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1365792527 source:d:\2015\test\lua\ltable.c
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lgc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"lvm.h"
+
+1365792527 source:d:\2015\test\lua\ltablib.c
+	<stddef.h>
+	"lua.h"
+	"lauxlib.h"
+	"lualib.h"
+
+1365792527 source:d:\2015\test\lua\ltm.c
+	<string.h>
+	"lua.h"
+	"lobject.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+
+1365792527 source:d:\2015\test\lua\lundump.c
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lmem.h"
+	"lobject.h"
+	"lstring.h"
+	"lundump.h"
+	"lzio.h"
+
+1365792527 source:d:\2015\test\lua\lvm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"ldebug.h"
+	"ldo.h"
+	"lfunc.h"
+	"lgc.h"
+	"lobject.h"
+	"lopcodes.h"
+	"lstate.h"
+	"lstring.h"
+	"ltable.h"
+	"ltm.h"
+	"lvm.h"
+
+1365792527 source:d:\2015\test\lua\lzio.c
+	<string.h>
+	"lua.h"
+	"llimits.h"
+	"lmem.h"
+	"lstate.h"
+	"lzio.h"
+
+1429432181 source:d:\2015\test\main.cpp
+	<cstring>
+	<stdlib.h>
+	"lua/lua.hpp"
+
+1103763184 d:\2015\test\lua\lua.hpp
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
